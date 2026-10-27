@@ -1,0 +1,10 @@
+# Power BI local files
+*.pbix.~
+*.pbit.~
+
+# Microsoft Office temporary files
+~$*.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
